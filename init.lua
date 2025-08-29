@@ -1,1 +1,1 @@
-require("gigtekconfig.core")
+require("config.gigtek")
