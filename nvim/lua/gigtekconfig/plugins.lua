@@ -1,0 +1,1 @@
+-- (Paste full plugins.lua content from earlier here. Omitted for brevity.)
